@@ -64,7 +64,14 @@ La combinación de **sandboxing (ANY.RUN), análisis forense y buenas prácticas
 📌 **Lección aprendida:** La **ciberseguridad comienza en el usuario final**. Capacitación continua y monitoreo proactivo son claves para prevenir incidentes.
 
 ---
+## 📂 Evidencias incluidas
 
+En la carpeta [`Evidencias/`](./Evidencias) se encuentran los siguientes archivos:
+
+- [`AnalisisLink.pdf`](./Evidencias/AnalisisLink.pdf) → Informe PDF del análisis desde el enlace de Any.Run.  
+- [`AnalisisPDFadjunto.pdf`](./Evidencias/AnalisisPDFadjunto.pdf) → Informe PDF del análisis del archivo adjunto malicioso.  
+- [`Archivo.eml`](./Evidencias/Archivo.eml) → Correo electrónico original recibido en formato **.eml**.  
+- [`Imagen.jpg`](./Evidencias/Imagen.jpg) → Captura de pantalla del correo recibido.  
 ## 👨‍💻 Autor
 **Nicolás Sotomayor**  
 - SOC Analyst Jr. | Blue Team | Cybersecurity Enthusiast  
